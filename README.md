@@ -136,6 +136,3 @@ reversal is a Qwen2.5 property or general), a genuinely adversarial (not just ha
 distractor, and a larger manual audit than the 50-answer spot check done here. The method and the
 finding are the deliverable; broader claims would need that extra work.
 
-## License
-
-MIT — A citation or a nod is appreciated if you build on it, but not required.
