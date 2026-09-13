@@ -138,4 +138,4 @@ finding are the deliverable; broader claims would need that extra work.
 
 ## License
 
-MIT — do whatever. A citation or a nod is appreciated if you build on it, but not required.
+MIT — A citation or a nod is appreciated if you build on it, but not required.
