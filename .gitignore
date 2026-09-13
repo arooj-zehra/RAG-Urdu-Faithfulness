@@ -1,0 +1,16 @@
+RAG_Urdu_Faithfulness/
+archive/
+results/
+*.npy
+*.zip
+kaggle.json
+.cache/
+hf_cache/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.venv/
+venv/
+env/
