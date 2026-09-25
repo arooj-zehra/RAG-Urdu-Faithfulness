@@ -9,7 +9,7 @@ model sizes of the same family (Qwen2.5: 0.5B, 1.5B, 7B), using **hard negatives
 semantically similar wrong passage available, not a random one — as the adversarial retrieval
 failure case.
 
-## In plain words (no ML background needed)
+## The Problem 
 
 **RAG** (Retrieval-Augmented Generation) works in two steps: a retriever searches a document pile for
 passages relevant to a question, then a language model reads the top passage and answers from it.
