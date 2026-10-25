@@ -19,7 +19,7 @@ Retrieval isn't perfect, though — especially in Urdu, where retrieval tooling 
 English. This project deliberately breaks retrieval and watches what each model does. A
 **hallucination** here means a confident, wrong answer, as opposed to honestly saying "I don't know."
 
-## What was tested
+## What was tested:
 
 Every question, for every model, was asked three ways:
 
